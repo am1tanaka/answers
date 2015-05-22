@@ -39,7 +39,7 @@
 ## index.htmlを作成
 - [ファイル]>[新規作成]>[ファイル]を選択
 - [HTML]ページを選択して、名前を「index.html」として[追加]を押す
-- [ソリューションエクスプローラー]から[Scripts]を開き、[jquery-x.x.x.min.js]と[bootstrap.min.js]をドラッグして、ソース上の<body>～</body>の間にドロップする
+- [ソリューションエクスプローラー]から[Scripts]を開き、[jquery-x.x.x.min.js]と[bootstrap.min.js]をドラッグして、ソース上の&lt;body>～</body>の間にドロップする
 - [ソリューションエクスプローラー]から[Content]>[bootstrap]を開き、[bootstrap.less]をダブルクリックして呼び出す
 - 保存ボタンを押すと、lessファイルがビルドされる
 - [index.html]に切り替える
